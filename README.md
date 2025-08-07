@@ -4,7 +4,7 @@
 
 ---
 
-## 🇬🇧 Privacy Policy (English)
+## 🇬🇧 Privacy Policy
 
 ### 1. Introduction
 Welcome to **HackerN**! Your privacy is important to us. This Privacy Policy explains how we collect, use, and share information when you use our application.
@@ -33,7 +33,7 @@ If you have any questions about this Privacy Policy, you can contact us:
 
 ---
 
-## 🇹🇷 Gizlilik Politikası (Turkish)
+## 🇹🇷 Gizlilik Politikası
 
 ### 1. Giriş
 **HackerN**’ye hoş geldiniz! Gizliliğiniz bizim için önemlidir. Bu Gizlilik Politikası, uygulamamızı kullandığınızda nasıl bilgi topladığımızı, kullandığımızı ve paylaştığımızı açıklar.
